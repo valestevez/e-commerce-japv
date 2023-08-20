@@ -1,2 +1,2 @@
-# e-commerce-japv
- 
+# ProyectoGrupo3
+Éste es el repositorio grupal
